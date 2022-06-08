@@ -1,0 +1,4 @@
+[submodule "axusBlog/public"]
+	path = axusBlog/public
+	url = git@github.com:ujjwal3067/axus.github.io.git
+	branch = main
